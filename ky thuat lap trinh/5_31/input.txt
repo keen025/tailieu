@@ -1,0 +1,17 @@
+5
+nguyen ke duy
+9
+A
+do anh duc
+10
+B
+nguyen duc hung
+8
+C
+do viet anh
+7
+D
+nguyen ngoc viet anh
+8
+D
+

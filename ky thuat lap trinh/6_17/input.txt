@@ -1,0 +1,12 @@
+3
+nguyen van a
+hn
+A
+nguyen van b
+hcm
+B
+nguyen van c
+dn
+C
+nguyen van b
+

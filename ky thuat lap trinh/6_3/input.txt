@@ -1,0 +1,17 @@
+5
+nguyen van a
+9
+A
+nguyen van b
+10
+C
+nguyen van c
+8
+C
+nguyen van d
+8
+B
+nguyen van e
+10
+A
+
